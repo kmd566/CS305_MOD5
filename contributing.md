@@ -57,3 +57,8 @@ The following templates are currently availble
 * Performance improvement
 * Documentation updates
 * Adding or changing Functionality
+
+---
+
+### Contributors
+Michael Nelson contributed to this repository
