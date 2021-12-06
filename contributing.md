@@ -8,6 +8,8 @@ Before Submitting a bug report follow this check list:
 * Check in the debugging guide to see if that will fix the issue
   * this can be found in the debugging sub-folder in the repository
 
+---
+
 #### Bug Report Basics
 Follow this template for each bug report
 
@@ -22,6 +24,8 @@ What you expected to happen
 What actually happened
 
 Any other Notes:
+
+---
 
 ### Suggest Enhancements
 Follow this template for each enhancement suggestion
@@ -40,6 +44,8 @@ IF APPLICABLE
 Add in any details or code suggestions below, having it a specific as possible.
 
 Any other Notes:
+
+---
 
 ### Pull Requests
 When adding to the application make sure you follow the style guide and maintain the current image and idea of the Mother Nature Library.
